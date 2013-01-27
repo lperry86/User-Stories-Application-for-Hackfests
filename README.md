@@ -1,0 +1,4 @@
+User-Stories-Application-for-Hackfests
+======================================
+
+I recently came back from a hackfest where so many different developers, designers, and idea people were working on similar applications without a particular attention to user requirements. So, I have decided to build a really awesome UX and hybrid HTML 5 application to go along with me to hackfests. I am a big proponent on dual screen display technology. I believe a collaborative application development platform with dual screen technology is essential. If you are interested in committing to my project, please clone my project and add to it. Thanks. 
